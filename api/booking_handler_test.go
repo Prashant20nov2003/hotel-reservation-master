@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fulltimegodev/hotel-reservation/db/fixtures"
-	"github.com/fulltimegodev/hotel-reservation/types"
+	"github.com/prashant20nov2003/hotel-reservation/db/fixtures"
+	"github.com/prashant20nov2003/hotel-reservation/types"
 	"github.com/gofiber/fiber/v2"
 )
 

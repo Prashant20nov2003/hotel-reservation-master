@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/fulltimegodev/hotel-reservation/types"
+	"github.com/prashant20nov2003/hotel-reservation/types"
 	"github.com/gofiber/fiber/v2"
 )
 

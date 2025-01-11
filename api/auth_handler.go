@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/fulltimegodev/hotel-reservation/db"
-	"github.com/fulltimegodev/hotel-reservation/types"
+	"github.com/prashant20nov2003/hotel-reservation/db"
+	"github.com/prashant20nov2003/hotel-reservation/types"
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
 	"go.mongodb.org/mongo-driver/mongo"

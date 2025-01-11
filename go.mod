@@ -1,4 +1,4 @@
-module github.com/fulltimegodev/hotel-reservation
+module github.com/prashant20nov2003/hotel-reservation
 
 go 1.20
 

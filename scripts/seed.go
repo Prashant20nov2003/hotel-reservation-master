@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/fulltimegodev/hotel-reservation/api"
-	"github.com/fulltimegodev/hotel-reservation/db"
-	"github.com/fulltimegodev/hotel-reservation/db/fixtures"
+	"github.com/prashant20nov2003/hotel-reservation/api"
+	"github.com/prashant20nov2003/hotel-reservation/db"
+	"github.com/prashant20nov2003/hotel-reservation/db/fixtures"
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

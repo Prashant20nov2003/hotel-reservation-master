@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/fulltimegodev/hotel-reservation/api"
-	"github.com/fulltimegodev/hotel-reservation/db"
+	"github.com/prashant20nov2003/hotel-reservation/api"
+	"github.com/prashant20nov2003/hotel-reservation/db"
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"

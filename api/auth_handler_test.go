@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fulltimegodev/hotel-reservation/db/fixtures"
+	"github.com/prashant20nov2003/hotel-reservation/db/fixtures"
 	"github.com/gofiber/fiber/v2"
 )
 

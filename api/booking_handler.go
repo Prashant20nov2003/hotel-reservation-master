@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/fulltimegodev/hotel-reservation/db"
+	"github.com/prashant20nov2003/hotel-reservation/db"
 	"github.com/gofiber/fiber/v2"
 	"go.mongodb.org/mongo-driver/bson"
 )
