@@ -4,16 +4,16 @@ go 1.20
 
 require (
 	github.com/gofiber/fiber/v2 v2.43.0
+	github.com/golang-jwt/jwt/v5 v5.0.0-rc.2
+	github.com/joho/godotenv v1.5.1
 	go.mongodb.org/mongo-driver v1.11.4
 	golang.org/x/crypto v0.8.0
 )
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
-	github.com/golang-jwt/jwt/v5 v5.0.0-rc.2 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
